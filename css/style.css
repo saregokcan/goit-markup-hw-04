@@ -136,12 +136,6 @@ a:focus {
 }
 .olk-klo {
   color: #2e2f42;
-
-  .olk-klo .container{
-    display: flex;
-    align-items: baseline;
-  }
-
 }
 .plm-mlp {
   line-height: 1.5;
@@ -166,16 +160,15 @@ a {
   background-size: cover;
 }
 
-
-.lve-evl{
-display: flex;
-align-items: center;
-justify-content: center;
-height: 112px;
-background-color: #f4f4fd;
-border-radius: 4px;
-border: 1px solid #8e8f99;
-margin-bottom: 8px;
+.lve-evl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
 }
 
 .dort-bolum {
@@ -307,6 +300,8 @@ img {
 
 .list-four {
   width: calc((100% - 48px) / 3);
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 ul {
