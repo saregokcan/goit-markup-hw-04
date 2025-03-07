@@ -161,9 +161,10 @@ a {
 }
 
 svg{
-  width:"64";
-  height:"64";
+  width:"64px";
+  height:"64px";
 }
+
 .lve-evl{
 display: flex;
 align-items: center;
