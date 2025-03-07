@@ -19,8 +19,9 @@ header {
   border-bottom: 1px solid #e7e9fc;
 }
 
-head-had{
-  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
+head-had {
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 header div {
@@ -98,7 +99,7 @@ h3 {
   padding: 24px 0;
   position: relative;
   color: #404bbf;
-  content: '';
+  content: "";
   width: 100%;
   position: absolute;
   left: 0;
@@ -284,7 +285,7 @@ img {
   width: calc((100% - 48px) / 3);
 }
 
-ul{
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
