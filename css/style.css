@@ -1,0 +1,273 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+*,
+*:before,
+*:after {
+  box-sizing: unset;
+}
+header {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  border-bottom: 1px solid #e7e9fc;
+}
+header div {
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+nav {
+  display: flex;
+  align-items: center;
+}
+.sira-two {
+  display: flex;
+  gap: 40px;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+a:focus {
+  background-color: #404bbf;
+}
+a:hover {
+  background-color: #404bbf;
+}
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+}
+.seg-gez {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  margin-right: 76px;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.sira-head {
+  display: flex;
+  gap: 40px;
+}
+.sez-zse {
+  color: #2e2f42;
+}
+.sab-bas {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  padding: 24px 0;
+}
+address {
+  font-style: normal;
+}
+.yhn-nhy {
+  background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
+}
+button:hover {
+  background-color: #404bbf;
+}
+button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+.bkz-kbz {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+a:hover {
+  color: #404bbf;
+}
+a:focus {
+  color: #404bbf;
+}
+.olk-klo {
+  color: #2e2f42;
+}
+.plm-mlp {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+  max-width: 264px;
+}
+a {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-size: 16px;
+}
+
+.iki-bolum {
+  background-color: #2e2f42;
+  padding: 188px 0;
+}
+.dort-bolum {
+  background-color: #f4f4fd;
+  padding: 120px 0;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+footer {
+  color: #2e2f42;
+  background-color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 100px 0;
+}
+.alt-bilgi .footer-p {
+  color: #f4f4fd;
+}
+p {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-size: 16px;
+}
+.logo-sinif {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+  font-size: 18px;
+}
+.bus-sub {
+  color: #434455;
+}
+.olk-klo .seg-gez .sez-zse {
+  color: #f4f4fd;
+}
+.rfv-vfr {
+  margin-bottom: 72px;
+}
+.tuz-golu {
+  display: flex;
+  gap: 24px;
+}
+.bjk-kjb {
+  text-align: center;
+}
+.gty-ytg {
+  text-align: center;
+}
+.bes-bolum {
+  padding: 120px 0;
+}
+.zxc-cxz {
+  margin-bottom: 72px;
+}
+.cls-golu {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+div {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+}
+.bse-seb {
+  max-width: 496px;
+}
+.gkn-kng {
+  display: block;
+  margin: 0 auto;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.uc-bolum {
+  padding: 120px 0;
+}
+.sec-two {
+  display: flex;
+  gap: 24px;
+}
+
+.sec-tre {
+  padding: 32px 0;
+}
+img {
+  display: block;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+.sbg-gsb {
+  width: calc((100% - 72px) / 4);
+}
+
+.list-four {
+  width: calc((100% - 48px) / 3);
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
