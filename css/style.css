@@ -154,6 +154,10 @@ a {
 .iki-bolum {
   background-color: #2e2f42;
   padding: 188px 0;
+  max-width: 1440px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .dort-bolum {
   background-color: #f4f4fd;
@@ -249,6 +253,7 @@ div {
   background-color: #4d5ae5;
   border-radius: 4px;
   cursor: pointer;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .uc-bolum {
   padding: 120px 0;
