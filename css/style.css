@@ -137,6 +137,12 @@ a:focus {
 .olk-klo {
   color: #2e2f42;
 }
+
+.olk-klo .container {
+  display: flex;
+  align-items: baseline;
+}
+
 .plm-mlp {
   line-height: 1.5;
   color: #f4f4fd;
