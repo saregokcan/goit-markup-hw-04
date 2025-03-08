@@ -157,7 +157,7 @@ a {
   font-size: 16px;
 }
 
-.iki-bolum {
+.bir-bolum{
   background-color: #2e2f42;
   padding: 188px 0;
   max-width: 1440px;
@@ -177,7 +177,7 @@ a {
   margin-bottom: 8px;
 }
 
-.dort-bolum {
+.uc-bolum {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
@@ -240,7 +240,7 @@ p {
 .gty-ytg {
   text-align: center;
 }
-.bes-bolum {
+.dort-bolum {
   padding: 120px 0;
 }
 .zxc-cxz {
@@ -273,7 +273,7 @@ div {
   cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.uc-bolum {
+.iki-bolum{
   padding: 120px 0;
 }
 .sec-two {
