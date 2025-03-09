@@ -330,3 +330,7 @@ ul {
   width: 100%;
   height: 100%;
 }
+
+svg {
+  fill: #f4f4fd;
+}
