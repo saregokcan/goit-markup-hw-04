@@ -412,3 +412,8 @@ svg {
   color: #FFFFFF;
   margin-bottom: 16px;
 }
+
+.footer-liste{
+  display: flex;
+  gap: 16px;
+}
