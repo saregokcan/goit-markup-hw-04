@@ -84,6 +84,16 @@ h3 {
   display: inline-block;
   margin-bottom: 16px;
 }
+
+.footer-a{
+  height: 100%;
+  width: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .sira-head {
   display: flex;
   gap: 40px;
