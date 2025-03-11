@@ -164,11 +164,18 @@ a:focus {
 .olk-klo {
   color: #2e2f42;
 }
+.alt-bilgi .olk-klo a:hover{
+  background-color: #31d0aa;
+}
+.alt-bilgi .olk-klo a:focus {
+  background-color: #31d0aa;
+}
 
 .olk-klo .container {
   display: flex;
   align-items: baseline;
 }
+
 
 .plm-mlp {
   line-height: 1.5;
