@@ -417,3 +417,9 @@ svg {
   display: flex;
   gap: 16px;
 }
+
+.footer-eleman{
+  width: 40px;
+  height: 40px;
+}
+
