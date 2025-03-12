@@ -271,11 +271,6 @@ p {
   margin: 0;
 }
 
-.ert-tre{
-  height: 100%;
-  width: 100%;
-}
-
 .logo-sinif {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -376,7 +371,7 @@ img {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.list-four:hover{
+.list-four:hover .dort-p{
   transform: translateY(0%);
 }
 
@@ -418,7 +413,6 @@ svg {
   fill: #f4f4fd;
 }
 
-
 .dort-p{
   box-sizing: border-box;
   top: 0;
@@ -433,6 +427,7 @@ svg {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 
 .dortb-img{
   position: relative;
