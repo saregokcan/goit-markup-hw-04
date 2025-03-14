@@ -9,12 +9,6 @@ footer div {
   align-items: baseline;
 }
 
-*,
-*:before,
-*:after {
-  box-sizing: unset;
-}
-
 .social-eleman{
    width: 40px;
   height: 40px;
